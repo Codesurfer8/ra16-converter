@@ -1,5 +1,6 @@
 {
   "name": "hex2rgb",
+  "homepage": "https://codesurfer8.github.io/ra16-converter/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
